@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Wellington Teixeira 🦅</h1>
+<h1 align="center">Hi, I'm Wellington de Freitas 🦅</h1>
 <h3 align="center">Senior DevSecOps | Cloud Engineer | AI Security Architect</h3>
 
 <p align="center">
