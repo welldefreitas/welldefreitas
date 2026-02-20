@@ -43,12 +43,6 @@ I am a Senior Infrastructure and AI Security Specialist with over **10 years of 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=welldefreitas&show_icons=true&theme=radium&hide_border=true" alt="Wellington's GitHub Stats" />
-</p>
-
 ---
 <p align="center">
   <b>⚡ Philosophy:</b> <i>Privacy by Design • Zero Data Retention • Security First • Automation First</i>
